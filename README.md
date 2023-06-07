@@ -9,6 +9,10 @@ This is my tmux.conf file, you may not like the colors but they can be easily ch
 - Mouse interaction has been enabled
 - 'C-a-r' if you want to reload the configuration file.
 - If you want to copy some text you can use the default tmux option or Shift+Select with the mouse.
+- If you want to kill all the active tmux sessions use: 
+  ```bash
+  tmux kill-server
+  ```
 
 ## References
 I've used Hermann Vocke's [blog posts](http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) as a reference to do it.
