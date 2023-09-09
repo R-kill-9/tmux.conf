@@ -1,7 +1,7 @@
 # tmux.conf
 This is my tmux.conf file, you may not like the colors but they can be easily changed.
 
-![screenshot](https://github.com/R-kill-9/tmux.conf/blob/main/tmux.png)
+![screenshot](https://github.com/R-kill-9/tmux.conf/blob/main/mkt.png)
 
 ## Commands
 - The prefix has been remap from 'C-b' to 'C-a'.
